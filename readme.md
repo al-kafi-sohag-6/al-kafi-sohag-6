@@ -14,10 +14,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=al-kafi-sohag&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=default&quoteType=quote-for-the-day&bgColor=black)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=al-kafi-sohag&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=al-kafi-sohag&limit=3&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=al-kafi-sohag&icon=10&color=0)](https://visitcount.itsvg.in)
