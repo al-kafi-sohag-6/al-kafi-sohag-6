@@ -1,8 +1,5 @@
-![|100%](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l6yo1v7o15sz91qv0z8kfuv1wn1rgnfz4tnh7wk0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-# 💫 About Me:
-🔭 I’m currently working on Scrape Niche<br>👯 I’m looking to collaborate on PHP/Python projects<br>🤝 I’m looking for help with advanced AI projects and design patterns<br>🌱 I’m currently learning Python, AI, ML, and system design<br>💬 Ask me about PHP, Laravel, Python, AI agents, and web scraping<br>📫 Reach me at aksohag16@gmail.com<br>⚡ Fun fact: I started coding during the 2020 pandemic, and it's been the most exciting journey ever!
-
+| ![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l6yo1v7o15sz91qv0z8kfuv1wn1rgnfz4tnh7wk0&ep=v1_gifs_search&rid=giphy.gif&ct=g) | # 💫 About Me:<br>🔭 I’m currently working on Scrape Niche<br>👯 I’m looking to collaborate on PHP/Python projects<br>🤝 I’m looking for help with advanced AI projects and design patterns<br>🌱 I’m currently learning Python, AI, ML, and system design<br>💬 Ask me about PHP, Laravel, Python, AI agents, and web scraping<br>📫 Reach me at aksohag16@gmail.com<br>⚡ Fun fact: I started coding during the 2020 pandemic, and it's been the most exciting journey ever! |
+|---|---|
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/al-kafi-sohag-0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/al-kafi-sohag) 
