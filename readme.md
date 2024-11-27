@@ -1,3 +1,5 @@
+![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 # 💫 About Me:
 🔭 I’m currently working on Scrape Niche<br>👯 I’m looking to collaborate on PHP/Python projects<br>🤝 I’m looking for help with advanced AI projects and design patterns<br>🌱 I’m currently learning Python, AI, ML, and system design<br>💬 Ask me about PHP, Laravel, Python, AI agents, and web scraping<br>📫 Reach me at aksohag16@gmail.com<br>⚡ Fun fact: I started coding during the 2020 pandemic, and it's been the most exciting journey ever!
 
